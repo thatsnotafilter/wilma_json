@@ -1,6 +1,4 @@
 # wilma_json
-Wilma JSON with Python
-
 Connect to WILMA JSON API with Python
 
 - Tested with Python 3.73 on Windows
